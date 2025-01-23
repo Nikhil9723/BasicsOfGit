@@ -1,5 +1,4 @@
 # BasicsOfGit
-
-rere
-readme
-readme from mohit
+readme from inshiya
+hi
+hello
